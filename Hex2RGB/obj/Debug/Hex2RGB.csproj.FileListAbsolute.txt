@@ -1,0 +1,10 @@
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\bin\Debug\Hex2RGB.exe.config
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\bin\Debug\Hex2RGB.exe
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\bin\Debug\Hex2RGB.pdb
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\obj\Debug\Hex2RGB.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\obj\Debug\Hex2RGB.Form1.resources
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\obj\Debug\Hex2RGB.Properties.Resources.resources
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\obj\Debug\Hex2RGB.csproj.GenerateResource.cache
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\obj\Debug\Hex2RGB.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\obj\Debug\Hex2RGB.exe
+C:\Users\Benjamin\source\repos\Hex2RGB\Hex2RGB\obj\Debug\Hex2RGB.pdb
